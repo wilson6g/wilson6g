@@ -1,8 +1,8 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/wilson6g/wilson6g/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/wilson6g/wilson6g/blob/41687471b208928a2e7ac0baf827c3b59fa773d4/github-header-image.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ resolver desafios usando tecnologia.<br><br> do desenvolvimento backend usando Node ao desenvolvimento frontend usando React.JS, sou <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Hoje sou um <strong>desenvolvedor júnior full stack</strong> focado em desenvolvimento web.</p>&nbsp;
+<p align="center">Eu ❤️ resolver desafios usando tecnologia.<br><br> do desenvolvimento backend usando Node ao desenvolvimento frontend usando React.JS, sou <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Hoje sou um <strong>desenvolvedor full stack</strong> focado em desenvolvimento web.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=wilson6g&theme=radical&mode=weekly" />
@@ -62,4 +62,4 @@
   
 
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
